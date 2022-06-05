@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TG_BOT", "TG_BOT\TG_BOT.csproj", "{A5BE49C4-E35B-4784-9D37-1F0BDF343AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BE49C4-E35B-4784-9D37-1F0BDF343AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BE49C4-E35B-4784-9D37-1F0BDF343AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BE49C4-E35B-4784-9D37-1F0BDF343AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BE49C4-E35B-4784-9D37-1F0BDF343AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
